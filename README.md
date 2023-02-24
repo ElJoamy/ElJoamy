@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joamy</h1>
+<h1 align="center">Hi 👋, I'm ElJoamy</h1>
 <h3 align="center">I am passionate backend and ethical hacking from Bolivia</h3>
 
 - 🌱 I’m currently learning **Cybersecurity and ethical hacking**
