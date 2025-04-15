@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ElJoamy</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on **AcceptGO**<br>👯 I’m looking to collaborate on **projects with AI** <br>🌱 I’m currently learning more of **Cybersecurity**<br>💬 Ask me about **Bots for social networks, automation, scrapping, ETL, DBs, or cybersecurity**<br>⚡ Fun fact **I think I'm funny haha**
+🔭 I’m currently working on **Seagull Software**<br>👯 I’m looking to collaborate on **projects with AI** <br>🌱 I’m currently learning more of **Cybersecurity**<br>💬 Ask me about **Bots for social networks, automation, scrapping, ETL, DBs, or cybersecurity**<br>⚡ Fun fact **I think I'm funny haha**
 
 
 ## 🌐 Socials:
